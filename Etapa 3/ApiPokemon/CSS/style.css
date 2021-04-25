@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    z-index: 1;
+}
+
+.headerStyle {
+    color: aqua;
+}
+
+.datosPersonajes {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+
+.card-img-top{
+    border-radius:50%;
+}
